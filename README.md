@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mathprogrammer5
+- 👀 I’m interested in chess, maths and physiks
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects concerning chess
+- 📫 How to reach me:
+-   E-mail: j.flaig@progymnasium-alpirsbach.de
