@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mathprogrammer5
-- 👀 I’m interested in chess, maths and physiks
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects concerning chess
-- 📫 How to reach me:
--   E-mail: j.flaig@progymnasium-alpirsbach.de
+💬 **Me**: Random kid interested in malware development, AI, Chess and Math.
+  Furthermore, I have no idea about markdown syntax which means that this file is gonna be pretty short.
+
+## `👨‍💻` Skills: 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,tensorflow,qt,vscode,vim,neovim,linux)](https://skillicons.dev)
